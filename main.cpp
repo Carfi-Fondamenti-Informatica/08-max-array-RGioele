@@ -11,7 +11,7 @@ int main(){
     }
 
 
-    cout << max(array, x)<<endl;
+    cout << max(array, x);
 
   return 0;
 }
