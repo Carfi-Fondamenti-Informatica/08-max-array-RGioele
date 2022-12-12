@@ -4,7 +4,7 @@ int main(){
       int x;
  cin >> x;
     float array[x];
-    for (int i = 0; i <= a; i++) {
+    for (int i = 0; i <= x; i++) {
 
 
         cin >> array[i];
