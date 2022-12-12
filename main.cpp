@@ -3,7 +3,7 @@
 int main(){
       int x;
  cin >> x;
-    float array[a];
+    float array[x];
     for (int i = 0; i <= a; i++) {
 
 
